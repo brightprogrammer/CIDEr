@@ -7,7 +7,7 @@ The simple answer is that I don't feel much satisfied by current C/C++ IDEs.
 The good ones are paid ones.
 
 #### GOALS
-CIDEr has 3 main goals :
+    CIDEr has 3 main goals :
     1 : Be superfast and superlight for almost all platforms
     2 : Look good on almost all platforms
     3 : Provide as many features as possible.
@@ -16,7 +16,7 @@ CIDEr has 3 main goals :
     Just created the project so only one feature : A github repo.
 
 #### TARGETS
-Here I will write down targets. A target is a feature that is yet to be added.
+    Here I will write down targets. A target is a feature that is yet to be added.
     1 : Basic UI setup. (Ability to create new files, edit files and save files)
     2 : Font Settings.
     3 : Syntax highlighting for C/C++ programs. 
