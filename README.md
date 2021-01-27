@@ -52,3 +52,7 @@ Screenshots of CIDEr whenever something changes in it's looks. This is just for 
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Attributions
+The CIDEr icon was downloaded from flaticon
+<div>Icons made by <a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan">Darius Dan</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
