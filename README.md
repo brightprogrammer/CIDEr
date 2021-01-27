@@ -6,8 +6,8 @@ Feel free to contribute in this project.
 #### The simple answer is that I don't feel much satisfied by current C/C++ IDEs. The good ones are the paid ones. 
 
 ## TIMELINE
-### Screenshots of CIDEr whenever something changes in it's looks
-#### This is just for nostalgia purposes for developers
+Screenshots of CIDEr whenever something changes in it's looks
+This is just for nostalgia purposes for developers
 ![Screenshot001](res/screenshots/cider-001.png)
 
 #### GOALS
