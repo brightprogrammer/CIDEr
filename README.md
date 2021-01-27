@@ -2,8 +2,8 @@
 
 Feel free to contribute in this project.
 
-### Why a new C++ IDE ?
-#### The simple answer is that I don't feel much satisfied by current C/C++ IDEs. The good ones are the paid ones. 
+## Why a new C++ IDE ?
+    The simple answer is that I don't feel much satisfied by current C/C++ IDEs. The good ones are the paid ones. Another reason is because I like programming and learning new things and developing a whole IDE is another level of experience (you are high without taking marijuana :smile).
 
 ## TIMELINE
 Screenshots of CIDEr whenever something changes in it's looks. This is just for nostalgia purposes for developers. One can take a look at changes CIDEr went through;
