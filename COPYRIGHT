@@ -1,3 +1,5 @@
+/**
+	@copyright
     CIDEr is a lighweight IDE for C/C++ programming.
     Copyright (C) 2021  Siddharth Mishra
 
@@ -13,3 +15,4 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
