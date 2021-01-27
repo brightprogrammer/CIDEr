@@ -1,6 +1,7 @@
 # CIDEr is a feature rich IDE for C/C++ programming
 
 Feel free to contribute in this project.
+![Join Discord Server](https://discord.gg/mcp3SuX479)
 
 ## Why a new C++ IDE ?
 The simple answer is that I don't feel much satisfied by current C/C++ IDEs. The goodones are the paid ones. Another reason is because I like programming and learning newthings and developing a whole IDE is another level of experience (you are high without taking marijuana.
