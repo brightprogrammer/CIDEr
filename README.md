@@ -1,4 +1,4 @@
-# CIDEr is a lightweight IDE for C/C++ programming
+# CIDEr is a feature rich IDE for C/C++ programming
 
 Feel free to contribute in this project.
 
@@ -12,7 +12,7 @@ This is just for nostalgia purposes for developers
 
 #### GOALS
     CIDEr has 3 main goals :
-    1 : Be superfast and superlight for almost all platforms.
+    1 : Be fast for almost all platforms.
     2 : Look good on almost all platforms.
     3 : Provide as many features as possible.
 
